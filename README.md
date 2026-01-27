@@ -3,7 +3,7 @@
 👾 Developing my skills in Python - I've been coding in Python since 2023 <br/>
 🌱 I want to learn coding in other languages like HTML and C++ <br/>
 🏫 High school student (Year 11) <br/>
-💫 15, she/her <br/>
+💫 16, she/her <br/>
 🎧 I love coding, reading and listening to music
 
 <!--
