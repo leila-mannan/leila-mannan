@@ -1,7 +1,7 @@
 ## Hi, my name is Leila 👋
 
 👾 Developing my skills in Python - I've been coding in Python since 2023 <br/>
-🌱 I want to learn coding in other languages like HTML, C++ and Java <br/>
+🌱 Currently learning to code in JavaScript <br/>
 🏫 Sixth form student (Year 12) <br/>
 💫 16, she/her <br/>
 🎧 I love coding, reading and listening to music
